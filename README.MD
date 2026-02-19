@@ -2,7 +2,7 @@
 # 💫 About Me:
 👋 Hi, I'm KiranKumar Kosuri<br>DevOps Engineer | AWS | Terraform | Docker | Kubernetes | Jenkins CI CD | Automation |<br>
 
-An enthusiastic and results-driven DevOps / DevSecOps Engineer with hands-on experience in cloud automation, CI/CD pipeline development, and infrastructure as code (IaC).With a strong IT foundation, I specialize in designing and implementing scalable, secure, and resilient cloud infrastructures that accelerate software delivery and improve operational efficiency. My expertise lies in AWS cloud services, automation frameworks, and DevOps best practices to streamline deployments and enhance business.I’m passionate about transforming manual workflows into fully automated pipelines using modern tools like Terraform, Docker, Kubernetes, Jenkins, and Ansible. My goal is to help organizations achieve faster release cycles, enhanced system reliability, and continuous improvement through automation and cloud innovation.
+Passionate about cloud automation and CI/CD with hands-on experience in building scalable and secure infrastructure using IaC. Skilled in AWS, Terraform, Docker, Kubernetes, Jenkins, and Ansible. Focused on automating workflows, improving deployment efficiency, and continuously learning modern DevOps practices.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kirankumar-kosuri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kosurikirankumar7@gmail.com) 
