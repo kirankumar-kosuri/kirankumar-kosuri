@@ -13,34 +13,64 @@ Detail-oriented and motivated DevOps & Cloud Engineer (Fresher) with hands-on in
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 
 
-
 <div align="center">
 
-<!-- Month Labels -->
-<svg width="900" height="40">
-  <text x="10" y="20" fill="#555" font-size="14">Jan</text>
-  <text x="80" y="20" fill="#555" font-size="14">Feb</text>
-  <text x="150" y="20" fill="#555" font-size="14">Mar</text>
-  <text x="220" y="20" fill="#555" font-size="14">Apr</text>
-  <text x="290" y="20" fill="#555" font-size="14">May</text>
-  <text x="360" y="20" fill="#555" font-size="14">Jun</text>
-  <text x="430" y="20" fill="#555" font-size="14">Jul</text>
-  <text x="500" y="20" fill="#555" font-size="14">Aug</text>
-  <text x="570" y="20" fill="#555" font-size="14">Sep</text>
-  <text x="640" y="20" fill="#555" font-size="14">Oct</text>
-  <text x="710" y="20" fill="#555" font-size="14">Nov</text>
-  <text x="780" y="20" fill="#555" font-size="14">Dec</text>
-</svg>
+<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
 
-<!-- Snake Game -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" 
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
+  <!-- Background -->
+  <rect width="900" height="180" fill="#0d1117"/>
+
+  <!-- Grid (Contribution style) -->
+  <g fill="#161b22">
+    <!-- generate small squares -->
+    <!-- You can duplicate rows to expand -->
+    <rect x="20" y="40" width="10" height="10"/>
+    <rect x="40" y="40" width="10" height="10"/>
+    <rect x="60" y="40" width="10" height="10"/>
+    <rect x="80" y="40" width="10" height="10"/>
+    <rect x="100" y="40" width="10" height="10"/>
+    <!-- Add more squares as needed -->
+  </g>
+
+  <!-- Snake Body -->
+  <circle r="6" fill="#00ff88">
+    <animateMotion dur="6s" repeatCount="indefinite" path="
+      M20,60 
+      L200,60 
+      L200,120 
+      L400,120 
+      L400,60 
+      L600,60
+    "/>
+  </circle>
+
+  <!-- Snake Tail -->
+  <circle r="5" fill="#00cc66">
+    <animateMotion dur="6s" repeatCount="indefinite" path="
+      M10,60 
+      L190,60 
+      L190,120 
+      L390,120 
+      L390,60 
+      L590,60
+    "/>
+  </circle>
+
+  <!-- Food (Contribution nodes) -->
+  <circle cx="200" cy="60" r="4" fill="#ffcc00">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="400" cy="120" r="4" fill="#ffcc00">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Title -->
+  <text x="20" y="20" fill="#58a6ff" font-size="16">
+    🐍 GitHub Contribution Snake (Custom Theme)
+  </text>
+
+</svg>
 
 </div>
 
