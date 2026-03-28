@@ -4,7 +4,7 @@ Detail-oriented and motivated DevOps & Cloud Engineer (Fresher) with hands-on in
 </b>
 
 
-# Socials:
+# <h1>Socials<h1/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kirankumar-kosuri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kosurikirankumar7@gmail.com) 
 
 
