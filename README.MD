@@ -1,6 +1,7 @@
 <b>
 Hi, I'm Kiran Kumar Kosuri
 
+
 Detail-oriented and motivated DevOps & Cloud Engineer (Fresher) with hands-on internship experience in building and maintaining CI/CD pipelines, server management, and cloud-based deployments. Skilled in automation, containerization, and monitoring with a strong focus on improving system reliability and performance. Experienced in real-time troubleshooting and collaborating with development teams to streamline deployment processes.
 </b>
 
