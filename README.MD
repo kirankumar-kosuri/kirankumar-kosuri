@@ -15,62 +15,40 @@ Detail-oriented and motivated DevOps & Cloud Engineer (Fresher) with hands-on in
 
 <div align="center">
 
-<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+<svg width="928" height="60" viewBox="0 0 928 60" xmlns="http://www.w3.org/2000/svg">
 
   <!-- Background -->
-  <rect width="900" height="180" fill="#0d1117"/>
+  <rect width="928" height="60" fill="transparent"/>
 
-  <!-- Grid (Contribution style) -->
-  <g fill="#161b22">
-    <!-- generate small squares -->
-    <!-- You can duplicate rows to expand -->
-    <rect x="20" y="40" width="10" height="10"/>
-    <rect x="40" y="40" width="10" height="10"/>
-    <rect x="60" y="40" width="10" height="10"/>
-    <rect x="80" y="40" width="10" height="10"/>
-    <rect x="100" y="40" width="10" height="10"/>
-    <!-- Add more squares as needed -->
+  <!-- Month Labels (aligned to week columns) -->
+  <!-- Each column ≈ 17px spacing like GitHub -->
+
+  <g fill="#8b949e" font-size="12" font-family="Arial, sans-serif">
+    <text x="0" y="15">Jan</text>
+    <text x="70" y="15">Feb</text>
+    <text x="140" y="15">Mar</text>
+    <text x="210" y="15">Apr</text>
+    <text x="280" y="15">May</text>
+    <text x="350" y="15">Jun</text>
+    <text x="420" y="15">Jul</text>
+    <text x="490" y="15">Aug</text>
+    <text x="560" y="15">Sep</text>
+    <text x="630" y="15">Oct</text>
+    <text x="700" y="15">Nov</text>
+    <text x="770" y="15">Dec</text>
   </g>
 
-  <!-- Snake Body -->
-  <circle r="6" fill="#00ff88">
-    <animateMotion dur="6s" repeatCount="indefinite" path="
-      M20,60 
-      L200,60 
-      L200,120 
-      L400,120 
-      L400,60 
-      L600,60
-    "/>
-  </circle>
-
-  <!-- Snake Tail -->
-  <circle r="5" fill="#00cc66">
-    <animateMotion dur="6s" repeatCount="indefinite" path="
-      M10,60 
-      L190,60 
-      L190,120 
-      L390,120 
-      L390,60 
-      L590,60
-    "/>
-  </circle>
-
-  <!-- Food (Contribution nodes) -->
-  <circle cx="200" cy="60" r="4" fill="#ffcc00">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-  </circle>
-
-  <circle cx="400" cy="120" r="4" fill="#ffcc00">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-  </circle>
-
-  <!-- Title -->
-  <text x="20" y="20" fill="#58a6ff" font-size="16">
-    🐍 GitHub Contribution Snake (Custom Theme)
-  </text>
-
 </svg>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" 
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
