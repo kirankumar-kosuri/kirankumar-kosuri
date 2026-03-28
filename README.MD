@@ -33,4 +33,4 @@ Detail-oriented and motivated DevOps & Cloud Engineer (Fresher) with hands-on in
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-Thanks for visiting...
+<b>Thanks for visiting</b>
