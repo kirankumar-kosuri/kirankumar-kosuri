@@ -14,20 +14,35 @@ Detail-oriented and motivated DevOps & Cloud Engineer (Fresher) with hands-on in
 
 
 
+<div align="center">
+
+<!-- Month Labels -->
+<svg width="900" height="40">
+  <text x="10" y="20" fill="#555" font-size="14">Jan</text>
+  <text x="80" y="20" fill="#555" font-size="14">Feb</text>
+  <text x="150" y="20" fill="#555" font-size="14">Mar</text>
+  <text x="220" y="20" fill="#555" font-size="14">Apr</text>
+  <text x="290" y="20" fill="#555" font-size="14">May</text>
+  <text x="360" y="20" fill="#555" font-size="14">Jun</text>
+  <text x="430" y="20" fill="#555" font-size="14">Jul</text>
+  <text x="500" y="20" fill="#555" font-size="14">Aug</text>
+  <text x="570" y="20" fill="#555" font-size="14">Sep</text>
+  <text x="640" y="20" fill="#555" font-size="14">Oct</text>
+  <text x="710" y="20" fill="#555" font-size="14">Nov</text>
+  <text x="780" y="20" fill="#555" font-size="14">Dec</text>
+</svg>
+
+<!-- Snake Game -->
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" 
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
+
+</div>
 
 
 # GitHub Stats
