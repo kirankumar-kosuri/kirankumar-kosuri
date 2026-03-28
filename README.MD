@@ -36,9 +36,6 @@ Detail-oriented and motivated DevOps & Cloud Engineer (Fresher) with hands-on in
 
 
 # GitHub Stats
-![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME)
-![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME&type=languages)
-![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME&type=contributions)
-![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME&type=top-repos)
+![kirankumar-kosuri's Contribution stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=kirankumar-kosuri&type=contributions&theme=radical)
 
 <b>Thanks for visiting...</b>
