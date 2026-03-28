@@ -32,5 +32,4 @@ Detail-oriented and motivated DevOps & Cloud Engineer (Fresher) with hands-on in
 [![](https://visitcount.itsvg.in/api?id=kirankumar-kosuri&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<b>Thanks for visiting</b>
+<b>Thanks for visiting...</b>
