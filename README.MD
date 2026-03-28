@@ -20,24 +20,6 @@ Detail-oriented and motivated DevOps & Cloud Engineer (Fresher) with hands-on in
   <!-- Background -->
   <rect width="928" height="60" fill="transparent"/>
 
-  <!-- Month Labels (aligned to week columns) -->
-  <!-- Each column ≈ 17px spacing like GitHub -->
-
-  <g fill="#8b949e" font-size="12" font-family="Arial, sans-serif">
-    <text x="0" y="15">Jan</text>
-    <text x="70" y="15">Feb</text>
-    <text x="140" y="15">Mar</text>
-    <text x="210" y="15">Apr</text>
-    <text x="280" y="15">May</text>
-    <text x="350" y="15">Jun</text>
-    <text x="420" y="15">Jul</text>
-    <text x="490" y="15">Aug</text>
-    <text x="560" y="15">Sep</text>
-    <text x="630" y="15">Oct</text>
-    <text x="700" y="15">Nov</text>
-    <text x="770" y="15">Dec</text>
-  </g>
-
 </svg>
 
 <!-- Snake Animation -->
