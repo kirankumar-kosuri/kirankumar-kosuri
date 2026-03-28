@@ -36,10 +36,5 @@ Detail-oriented and motivated DevOps & Cloud Engineer (Fresher) with hands-on in
 
 
 # GitHub Stats
-![kirankumar-kosuri's GitHub Stats](https://readme-stats-github.pages.dev/api?username=kirankumar-kosuri&theme=shadow)
----
-[![](https://visitcount.itsvg.in/api?id=kirankumar-kosuri&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://github-readme-stats.vercel.app/api?username=kirankumar-kosuri&show_icons=true&theme=tokyonight&bg_color=0d1117,1f2937&title_color=58a6ff&text_color=c9d1d9&icon_color=ff7b72&border_radius=15" />
 <b>Thanks for visiting...</b>
