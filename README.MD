@@ -25,6 +25,13 @@ Detail-oriented and motivated DevOps & Cloud Engineer (Fresher) with hands-on in
   />
 </picture>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 # 📊 GitHub Stats:
 ![kirankumar-kosuri's GitHub Stats](https://readme-stats-github.pages.dev/api?username=kirankumar-kosuri&theme=shadow)
 
